@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [URL]()
+- Solution URL: [URL](https://www.frontendmentor.io/solutions/ping-coming-soon-page-UIod3dKbCt)
 - Live Site URL: [URL](https://lisviks.github.io/ping-coming-soon-page-frontendmentor/)
 
 ## My process
