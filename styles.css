@@ -16,7 +16,7 @@ body {
 
 main {
   max-width: 350px;
-  margin-top: 5rem;
+  margin-top: 3rem;
 }
 
 header {
@@ -101,7 +101,7 @@ form .btn {
 
 .footer {
   text-align: center;
-  margin-top: 8rem;
+  margin-top: 6rem;
 }
 
 .footer .socials {
